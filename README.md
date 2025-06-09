@@ -4,7 +4,7 @@ I'm a passionate developer currently studying **Software Engineering** at **Adam
 I love building fully functional websites with both a cool, responsive front end and a reliable, secure back end 🔧.
 
 ### 🚀 Tech Stack
-- 💻 Frontend: HTML, CSS, JavaScript
+- 💻 Frontend: HTML, CSS, JavaScript , React Js
 - 🛠️ Backend: Django (Python)
 
 I enjoy working on fullstack web applications and turning ideas into real-world projects that solve problems or make life easier.
