@@ -5,7 +5,7 @@ I love building fully functional websites with both a cool, responsive front end
 
 ### 🚀 Tech Stack
 - 💻 Frontend: HTML, CSS, JavaScript , React Js
-- 🛠️ Backend: Django (Python)
+- 🛠️ Backend: Django (Python), Express Js (Javascript)
 
 I enjoy working on fullstack web applications and turning ideas into real-world projects that solve problems or make life easier.
 Whether it's crafting a smooth UI or setting up efficient backend logic, I'm always excited to learn and build more 💡.
