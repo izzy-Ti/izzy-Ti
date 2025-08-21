@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Israel!
+## 👋 Hi!
 
 I'm a passionate developer currently studying **Software Engineering** at **Adama Science and Technology University** 🎓.
 I love building fully functional websites with both a cool, responsive front end and a reliable, secure back end 🔧.
