@@ -1,3 +1,4 @@
-Hi, I'm Israel! 👋 
-I'm a Software Engineering student at ASTU.
-MERN stack expert with knowledge in Django & PHP/Laravel. Currently exploring Solidity, Blockchain, smart contracts, and DApps. Feel free to check out my repos!
+Hi, I'm Israel! 👋
+I'm a Backend Developer with expertise in building scalable applications, integrating payment systems, managing databases, and optimizing deployment workflows. I also have experience with CI/CD pipelines, Docker, and web3 technologies like Solidity and Blockchain development.
+
+Feel free to explore my repos!
