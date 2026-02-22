@@ -6,4 +6,4 @@ I play around with both Web2 and Web3 APIs, databases, smart contracts, blockcha
 Big fan of making systems smoother, deployments easier, and trying out shiny new tech.  
 Check out my projects they’re basically my playground 
 
-israelashenafi.com
+<a>israelashenafi.com</a>
