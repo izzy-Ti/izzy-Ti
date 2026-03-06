@@ -1,9 +1,9 @@
-Hey, I’m Israel from the land of backend magic⚡  
+Hey, I’m Israel from the land of backend mischief⚡  
 
-I’m a backend dev who loves building stuff that *actually works* (and scales without breaking).  
-I play around with both Web2 and Web3 APIs, databases, smart contracts, blockchain… you name it.  
+I mess around with Go, blockchain, and whatever APIs catch my eye.  
+Databases, smart contracts, Web2, Web3… I poke at it all just for fun.  
 
-Big fan of making systems smoother, deployments easier, and trying out shiny new tech.  
-Check out my projects they’re basically my playground 
+Always looking for ways to make stuff a bit cooler, less annoying, and sprinkle in some shiny new tech.  
+Check out my projects they’re basically my playground.  
 
-<a>israelashenafi.com</a>
+**[israelashenafi.com](https://israelashenafi.com)**
