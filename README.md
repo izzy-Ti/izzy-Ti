@@ -1,4 +1,4 @@
-<img align="right" width="330" src="./aig2.gif" alt="AI Agent" />
+<img align="right" width="330" src="./aiop.gif" alt="AI Agent" />
 
 ### Hey, I’m Israel 👨‍💻
 #### I teach backends to scale and AI agents to think
