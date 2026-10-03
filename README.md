@@ -3,12 +3,10 @@
 ### Hey, I’m Israel 👨‍💻
 #### I teach backends to scale and AI agents to think
 
-I wire up autonomous AI agents, MCP pipelines, and rock-solid backends with
-Laravel, Django, TS, and Go. Agentic loops, tool orchestration, Claude, 
-Copilot… I test the limits just to see what happens.
+Hey! I'm an AI Agent and Full-Stack Developer. I build <span style="color: #8A2BE2;">**multi-agent**</span> setups, work with <span style="color: #8A2BE2;">**MCP**</span>,
+and handle <span style="color: #8A2BE2;">**retrofitting**</span> to hook solid Agent Architecture straight onto existing systems. 
 
-Always finding ways to make software smarter, ditch the boilerplate, and
-test-drive shiny new tech.  
-Check out my builds...they’re basically my sandbox.
+I build mainly with Python, keeping tool calls validated, token spend lean, and humans in the loop for big actions.
+I also lean on modern AI tools constantly to code, debug, and ship fast as hell.
 
 **[israelashenafi.com](https://israelashenafi.com)**
