@@ -1,4 +1,4 @@
-<img align="right" width="330" src="./bet.gif" alt="AI Agent" />
+<img align="right" width="230" src="./bet.gif" alt="AI Agent" />
 
 ### Hey, I’m Israel 👨‍💻
 
