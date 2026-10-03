@@ -10,4 +10,4 @@ AI Agent and Full-Stack Developer. I build **multi-agent** setups, work with **M
 
 I build mainly with **Python**, keeping tool calls validated, token spend lean, and humans in the loop for big actions. I also lean on modern AI tools constantly to code, debug, and ship fast as hell.
 
-**[israelashenafi.com](https://israelashenafi.com)**
+👉 **[israelashenafi.com](https://israelashenafi.com)**
