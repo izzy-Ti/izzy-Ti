@@ -11,3 +11,5 @@ AI Agent and Enterprise Platform Developer. I build **multi-agent** setups, work
 I build mainly with **Python**, keeping tool calls validated, token spend lean, and humans in the loop for big actions. I also lean on modern AI tools constantly to code, debug, and ship fast as hell.
 
 👉 **[israelashenafi.com](https://israelashenafi.com)**
+
+<img src="https://api.iconify.design/logos:whatsapp-icon.svg" width="29" height="29" valign="middle" /> **+251 992013392**
