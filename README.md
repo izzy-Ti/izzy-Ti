@@ -12,4 +12,10 @@ I build mainly with **Python**, keeping tool calls validated, token spend lean, 
 
 👉 **[israelashenafi.com](https://israelashenafi.com)**
 
-<img src="https://api.iconify.design/logos:whatsapp-icon.svg" width="29" height="29" valign="middle" /> **+251 992013392**
+<img 
+  src="https://cdn.simpleicons.org/whatsapp/25D366" 
+  width="29" 
+  height="29" 
+  valign="middle" 
+  alt="WhatsApp" 
+/> **+251 992013392**
